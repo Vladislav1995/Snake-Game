@@ -4,3 +4,5 @@ C:\Программы\Visual\Project\Snake-Game\Snake-Game\Snake-Game\bin\Debug\
 C:\Программы\Visual\Project\Snake-Game\Snake-Game\Snake-Game\obj\Debug\Snake-Game.csprojResolveAssemblyReference.cache
 C:\Программы\Visual\Project\Snake-Game\Snake-Game\Snake-Game\obj\Debug\Snake-Game.exe
 C:\Программы\Visual\Project\Snake-Game\Snake-Game\Snake-Game\obj\Debug\Snake-Game.pdb
+C:\Программы\Visual\Project\Snake-Game\Snake-Game\Snake-Game\bin\Debug\Operation.dll
+C:\Программы\Visual\Project\Snake-Game\Snake-Game\Snake-Game\bin\Debug\Operation.pdb
